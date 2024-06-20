@@ -120,13 +120,6 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/akshaykamath45">
-                    <img src="https://avatars.githubusercontent.com/u/73344382?v=4" width="100px;" alt="Akshay Kamath"/>
-                    <br />
-                    <sub><b>Akshay Kamath</b></sub>
-                </a>
-            </td>
-            <td align="center">
                 <a href="https://github.com/kaushal016">
                     <img src="https://avatars.githubusercontent.com/u/115169467?v=4" width="100px;" alt="Kaushal Lohar"/>
                     <br />
@@ -1693,6 +1686,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/115337004?v=4" width="100px;" alt="Sukhendu Patra"/>
                     <br />
                     <sub><b>Sukhendu Patra</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/akshaykamath45">
+                    <img src="https://avatars.githubusercontent.com/u/73344382?v=4" width="100px;" alt="Akshay Kamath"/>
+                    <br />
+                    <sub><b>Akshay Kamath</b></sub>
                 </a>
             </td>
             <td align="center">
