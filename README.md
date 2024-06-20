@@ -113,6 +113,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Sum-it07">
+                    <img src="https://avatars.githubusercontent.com/u/156155151?v=4" width="100px;" alt="Sumit Shrestha"/>
+                    <br />
+                    <sub><b>Sumit Shrestha</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/akshaykamath45">
                     <img src="https://avatars.githubusercontent.com/u/73344382?v=4" width="100px;" alt="Akshay Kamath"/>
                     <br />
